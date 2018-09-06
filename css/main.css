@@ -9,7 +9,6 @@
 }
 
 .main-header {
-  /* background: url(../img/showcase.jpg); */
   background: url(../img/The_Swinging_Bridge_over_the_Patapsco_River_Howard_County_Credit_to_Chris_Adams_570d34f3-356c-4a23-9a26-335bdb7aba56-ConvertImage.png);
   background-size: cover;
   background-position: center;
@@ -51,24 +50,6 @@
   padding-bottom: 30px;
 }
 
-/* .section-contact .row {
-  margin-left: 33%;
-  margin-right: 33%;
-} */
-
-/* @media (max-width: 992px) {
-  .section-contact .row {
-    margin-right: auto;
-    margin-left: auto;
-  } */
-
-/* @media (min-width: 600px) {
-  .section-contact .row {
-    margin-right: auto;
-    margin-left: auto;
-  }
-} */
-
 @media (max-width: 600px) {
   .main-header {
     height: 50vh;
@@ -76,8 +57,4 @@
   .brand-title {
     font-size: 20px !important;
   }
-  /* .section-contact .row {
-    margin-right: auto;
-    margin-left: auto;
-  } */
 }
